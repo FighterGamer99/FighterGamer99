@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FighterGamer99/FighterGamer99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there!
+Welcome to my github page!
 
-Here are some ideas to get you started:
+I'm **Fighter Gamer**, I'm a **content creator** on YouTube and Single Game Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## I code in:
+[![Skill Icons](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
+
+---
+
+## Projects that I made!:
+
+### <a href="https://gamejolt.com/games/granny4mortuarymadness/912325">Granny 4 Mortuary Madness</a>
+<p>
+  <img src="https://i.imgur.com/lYTR5uq.png" width="500" style="border-radius: 100%;" alt="Granny 4 Mortuary Madness">
+</p>
+
+### <a href="https://gamejolt.com/games/granny4therebellion/815880">Granny 4 The Rebellion</a>
+<p>
+  <img src="https://i.imgur.com/F29Uqua.png" width="500" style="border-radius: 100%;" alt="Granny 4 The Rebellion">
+</p>
+
+---
+
+## Socials:
+### <a href="https://www.youtube.com/channel/UCgSQeJAam1KWyMP9sEHh0Fg">YouTube</a>
+### <a href="https://gamejolt.com/@FighterGamerX">Gamejolt</a>
+
+</div>
